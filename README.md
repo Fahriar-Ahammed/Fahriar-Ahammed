@@ -11,8 +11,9 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="cyberpunk neon line" />
 
-<!-- ✨ TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=600&color=8A8BFF&center=true&vCenter=true&width=720&lines=Laravel+%2F%2F+Vue+%2F%2F+Nuxt+%2F%2F+Flutter;I+turn+manual+business+operations;into+production+software+systems+✨" alt="typing" />
+### `Laravel // Vue // Nuxt // Flutter`
+
+**I turn manual business operations into production software systems** ✨
 
 <br/>
 
@@ -56,7 +57,7 @@
 |:---|:---|:---|
 | 🛒 **StorezAi** | Multi-store ecommerce operations platform — orders, courier, fraud check, reporting in one place | Live at [storezai.com](https://storezai.com) · paying customers |
 | ⚙️ **Machinery Rental ERP** | Rental + sales + inventory + billing + asset tracking for an industrial equipment company | Reporting time: **7–10 days → minutes** |
-| 🌱 **Field-Sales ERP + Mobile App** | Web + mobile system for agro-input distribution — sales, collection, stock, field visibility | Actively used by a running pesticide company |
+| 🌱 **Field-Sales ERP + Mobile App** | Web + mobile system for agro-input distribution — sales, collection, stock, field visibility | Actively used by a running agro company |
 | 🎨 **Product Customization Engine** | Embeddable 2D/3D preview system — customers upload a logo and see the final product before ordering | Built for a UK-based custom products business |
 
 <sub>Some client names kept private — happy to walk through the systems on a call.</sub>
@@ -107,10 +108,9 @@
 <img alt="github-snake" src="https://raw.githubusercontent.com/Fahriar-Ahammed/Fahriar-Ahammed/output/github-snake-dark.svg" />
 </picture>
 
-## 📊 Cosmic Analytics
+## 📊 Commit Streak
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Fahriar-Ahammed&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D0D2B&title_color=8A8BFF&icon_color=00E0FF&text_color=FFFFFF&ring_color=8A8BFF" alt="stats" />
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Fahriar-Ahammed&theme=midnight-purple&hide_border=true&background=0D0D2B&ring=8A8BFF&fire=00E0FF&currStreakLabel=8A8BFF&sideLabels=FFFFFF&dates=FFFFFF" alt="streak" />
+<img height="175" src="https://streak-stats.demolab.com/?user=Fahriar-Ahammed&theme=midnight-purple&hide_border=true&background=0D0D2B&ring=8A8BFF&fire=00E0FF&currStreakLabel=8A8BFF&sideLabels=FFFFFF&dates=FFFFFF" alt="streak" />
 
 </div>
 
@@ -142,9 +142,11 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=4000&pause=900&color=8A8BFF&center=true&vCenter=true&width=720&lines=Thanks+for+entering+my+orbit.;Always+building.+Always+shipping.;See+you+in+the+next+commit+✨" alt="outro" />
+### Thanks for entering my orbit.
 
-<br/><br/>
+**Always building. Always shipping. See you in the next commit ✨**
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:000000,40:0D0D2B,70:004e92,100:000428&section=footer&animation=twinkling" alt="footer" />
 
